@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ATrovillion/simple-http-node-server-2020#readme",
   "dependencies": {
+    "commonjs": "0.0.1",
+    "fs": "0.0.1-security",
     "http": "0.0.1-security"
   }
 }
